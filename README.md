@@ -16,5 +16,5 @@ Digital Inputs
 Transistor Outputs
 DIN-Ril mount
 
-Datasheet:   https://drive.google.com/open?id=1SDWagia_-nphx9JNlEyHvODFAp5kNgic&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1S77jyFz_hCJzCnbBpA0HD6zrPrmit6xC&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-cema-m2-datasheet/
+User Guide:  https://norvi.lk/docs/user-guide-norvi-cema-m2/
